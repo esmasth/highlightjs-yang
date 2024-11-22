@@ -12,7 +12,7 @@
 	"homepage": "https://github.com/esmasth/highlightjs-yang",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/esmasth/highlightjs-yang.git"
+		"url": "git+https://github.com/esmasth/highlightjs-yang.git"
 	},
 	"bugs": {
 		"url": "https://github.com/esmasth/highlightjs-yang/issues"
