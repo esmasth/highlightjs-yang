@@ -1,0 +1,20 @@
+{
+	"name": "highlightjs-yang",
+	"description": "YANG language support for highlight.js",
+	"version": "1.0.0",
+	"main": "src/languages/yang.js",
+	"author": {
+		"name": "Siddharth Sharma",
+		"email": "siddharth.sharma@ericsson.com",
+		"url": "https://github.com/esmasth"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/esmasth/highlightjs-yang",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/esmasth/highlightjs-yang.git"
+	},
+	"bugs": {
+		"url": "https://github.com/esmasth/highlightjs-yang/issues"
+	}
+}
